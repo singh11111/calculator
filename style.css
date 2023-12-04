@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(202, 183, 159);
+   width: 200px;
+
+}
+.button{
+    width: 40px;
+    height: 30px;
+    align-content: center;
+    margin: 3px;
+    
+}
+.conti{
+    margin: 5px;
+    width: 180px;
+    height: 25px;
+    align-content: center;
+
+}
+.continer-1{
+    margin: 6px;
+    margin-left:5px;
+    margin-right: 5px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+
+}
